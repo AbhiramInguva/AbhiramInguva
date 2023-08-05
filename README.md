@@ -31,7 +31,6 @@ Let's connect and collaborate! Follow me for exciting projects, insightful code 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<details>
  
 <summary><h3>👨‍💻 Abhi's Coding Journey</h3></summary>
 Aspiring student on a quest to explore the vast world of technology. Curiosity drives me to learn everything I can about coding, hardware, and beyond. Through diverse tech stacks and open-source contributions, I'm building a strong foundation in Python, Java, JavaScript, C++, and more. Web development fascinates me, as I dive into HTML, CSS, and JavaScript for responsive websites. Embracing data science, I manipulate and analyze data while venturing into machine learning. I'm committed to lifelong learning, staying at the forefront of tech trends. Collaboration and networking are my priorities, seeking exciting projects and connections. Let's build a boundless future together! 🚀
