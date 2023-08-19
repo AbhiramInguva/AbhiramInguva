@@ -12,7 +12,7 @@ Hello there! 👋 I'm a passionate Computer Science Engineering student at GITAM
 
 📚 Open Source Advocate: I'm a firm believer in the power of collaboration and the importance of giving back to the community. Contributing to open-source projects not only allows me to learn from experienced developers but also allows me to share my own expertise, helping others on their coding journey.
 
-🌐 Web Development and Beyond: I have a special interest in web development, where I enjoy building sleek and intuitive user interfaces while harnessing the power of backend technologies to create dynamic web applications. I'm also intrigued by artificial intelligence and its potential to revolutionize various industries.
+🌐 Artificial Intellegence and Beyond: I have a special interest inartificial intelligence and its potential to revolutionize various industries. I'm also intrigued by web development and its potential to transform the digital landscape in unprecedented ways.
 
 🔍 Seeking Opportunities: As I continue my academic journey, I am eager to explore internship opportunities and projects that align with my passions. I'm always open to collaborating with like-minded individuals and organizations that value innovation, teamwork, and a drive for continuous improvement.
 
