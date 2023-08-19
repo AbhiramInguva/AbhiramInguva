@@ -2,9 +2,6 @@
 
 **`Digital Craftsman (Developer)`**
 
-
-<img src="https://user-images.githubusercontent.com/59659608/261796421-e60c7210-deb0-4fb6-b946-f74aceeacdb5.gif" width="1000" height="300">
-
 Hello there! 👋 I'm a passionate Computer Science Engineering student at GITAM Hyderabad, on a quest to merge my love for technology, basketball, and karate into a unique blend of skills and creativity.
 
 🚀 Technology Enthusiast: With a keen eye for innovation and a fascination for cutting-edge tech, I'm constantly exploring the realms of software development, data science, and AI. My GitHub repository is a testament to my journey of learning and contributing to open-source projects, where I actively seek opportunities to collaborate, share knowledge, and build meaningful solutions.
