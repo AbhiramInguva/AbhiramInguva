@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer)`**
 
 
-<img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/59659608/261796421-e60c7210-deb0-4fb6-b946-f74aceeacdb5.gif" width="600" height="300">
 
 Hello there! 👋 I'm a passionate Computer Science Engineering student at GITAM Hyderabad, on a quest to merge my love for technology, basketball, and karate into a unique blend of skills and creativity.
 
