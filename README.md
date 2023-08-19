@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Developer)`**
 
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/AbhiramInguva/AbhiramInguva/assets/59659608/e60c7210-deb0-4fb6-b946-f74aceeacdb5)
+
 Hello there! 👋 I'm a passionate Computer Science Engineering student at GITAM Hyderabad, on a quest to merge my love for technology, basketball, and karate into a unique blend of skills and creativity.
 
 🚀 Technology Enthusiast: With a keen eye for innovation and a fascination for cutting-edge tech, I'm constantly exploring the realms of software development, data science, and AI. My GitHub repository is a testament to my journey of learning and contributing to open-source projects, where I actively seek opportunities to collaborate, share knowledge, and build meaningful solutions.
